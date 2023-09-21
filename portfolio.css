@@ -103,7 +103,7 @@ main{
     color: #474747;
 }
 /* what I Do  styles*/
-.kotta{
+.what-I-do{
     text-align: center;
 }
 #html{
@@ -132,6 +132,9 @@ main{
     color: #757575;
 } 
 /* Resume-styles */
+.resume{
+    text-align: center;
+}
 .resume-content{
     display: flex;
     gap: 24px;
