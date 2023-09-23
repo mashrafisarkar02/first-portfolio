@@ -49,6 +49,14 @@ nav ul{
 nav li{
     list-style: none;
     margin-left: 50px;
+    padding: 10px;
+    border-radius: 3px;
+}
+nav li:hover{
+    background-color: gray;
+}
+nav li button:hover{
+    background-color: gray;
 }
 /* banner styles */
 .banner{
