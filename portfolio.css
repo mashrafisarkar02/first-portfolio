@@ -21,6 +21,15 @@
     border: 0;
     padding: 18px 35px;
 }
+.contect{
+    border: solid red;
+    border-radius: 5px;
+    font-weight: 700px;
+    height: 64px;
+    font-size: 20px;
+    padding: 18px 35px;
+    margin-left: 10px;
+}
 .header{
     background-color: #fff8f3;
     background-repeat: no-repeat;
