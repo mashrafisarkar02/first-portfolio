@@ -64,7 +64,60 @@ nav li a{
 .banner-profile-picture{
     width: 580px;
 }
-/* over-all text color section  */
+/* shared style area  */
 .dark-2{
     color: #474747;
+}
+.section-title{
+    font-size: 35px;
+    font-weight: bold;
+    color: #181818;
+}
+.section-description{
+    font-size: 18px;
+    color: #757575;
+}
+.secondary-bg{
+    background-color:#FFF8F3;
+
+}
+.text-center{
+    text-align: center;
+}
+/* about section area */
+.about{
+    border-radius: 10px;
+    padding: 130px 150px;
+    text-align: center;
+    margin-top: 130px;
+}
+.about-items{
+    display: flex;
+    justify-content: space-around;
+}
+.item-description{
+    font-weight: 600;
+}
+/* main section area */
+main{
+    max-width: 1140px;
+    margin: 0 auto;
+}
+main section{
+    margin-top: 130px;
+    margin-bottom: 130px;
+}
+/* what I do section design area */
+.skills-container{
+    display: flex;
+    justify-content: space-around;
+    gap: 24px;
+
+}
+.skill{
+    background-color: #ffffff;
+    padding: 30px;
+    box-shadow: 0px 6px 50px 0px rgba(0, 0, 0, 0.06);
+    border-radius: 5px;
+    /* margin-right: 24px; */
 }
