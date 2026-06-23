@@ -162,3 +162,43 @@ main section{
 .resume-down-cv-btn{
     margin-top: 50px;
 }
+/* footer section area design */
+footer{
+    padding: 130px 230px;
+    display: flex;
+    justify-content: space-around;
+    gap: 100px;
+
+}
+footer input[type="text"] {
+    height: 64px;
+    width: 461px;
+    border-radius: 5px;
+    background-color: white;
+    padding: 10px 20px;
+    font-size: 16px;
+    margin-bottom:24px ;
+    border: none;
+}
+
+footer textarea{
+    width: 461px;
+    height: 180px;
+    border-radius: 5px;
+    background-color: white;
+    padding: 10px 20px;
+    font-size: 16px;
+    border: none;
+    margin-bottom: 24px;
+}
+.footer-icon img{
+    margin-right: 24px;
+}
+.footer-column{
+    width: 50%;
+}
+.footer-section-title{
+    text-align: left;
+    font-size: 35px;
+    font-weight: bold;
+}
